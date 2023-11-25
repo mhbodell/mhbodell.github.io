@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Miriam Hurtado Bodell / PhD student in Analytical Sociology"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Miriam"
-  avatar           : "images/miriam.jpg"
+  name             : "Miriam Hurtado Bodell"
+  avatar           : "/images/miriam.jpg"
   bio              : "Machine Learner turned Sociologist"
   location         : "Stockholm, Sweden"
   employer         :
