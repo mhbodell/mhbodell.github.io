@@ -1,7 +1,7 @@
 
 ---
 layout: page
-title: Curriculum Vitae
+title: Publications
 permalink: /publications/
 ---
 
