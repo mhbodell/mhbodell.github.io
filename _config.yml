@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Miriam Hurtado Bodell"
-  avatar           : "/images/miriam.jpg"
+  avatar           : "https://github.com/mhbodell/mhbodell.github.io/blob/master/images/miriam.jpg"
   bio              : "Machine Learner turned Sociologist"
   location         : "Stockholm, Sweden"
   employer         :
