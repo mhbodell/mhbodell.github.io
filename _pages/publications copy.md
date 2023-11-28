@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publ/
+author_profile: true
 ---
 
 
