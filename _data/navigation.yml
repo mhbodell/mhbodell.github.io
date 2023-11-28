@@ -1,18 +1,15 @@
 # main links links
 main:
-#  - title: "Publications"
-#    url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-#  - title: "Work in progress"
-#    url: /talks/
+  - title: "Projects"
+    url: /projects/
  
- - title: "Publications"
-    url: /publs/
-    
-    - title: "Projects"
-       url: /projects/
-
-
+# - title: "Publications"
+#   url: /publications/
+   
+ 
   #- title: "Teaching"
   #  url: /teaching/
     
