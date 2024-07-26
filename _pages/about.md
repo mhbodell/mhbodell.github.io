@@ -14,7 +14,8 @@ Miriam Hurtado Bodell
 ======
 
 
-I am a Ph.D. candidate in Analytical Sociology affiliated with the Institute for Analytical Sociology at Linköping University, Sweden. I am also a proud member of [Mining for Meaning](https://liu.se/en/research/computational-text-analysis#:~:text=Our%20project%20%22Mining%20for%20Meaning,emergence%20of%20shared%20social%20understandings.) and the [Computational Culture Lab](https://www.comp-culture.org/) at Stanford University.
+I am a Post Doctoral Fellow at the Organizational Behavior area at Stanford Graduate School of Business. My research focuses on the development and application of theoretically-driven computational text analysis in the realm of social science, as well as social inquiries about meaning-making processes.
+Specifically, I am investigating how meaning of concepts emerges historically, and diffuse between different societal spheres and through social interaction.
 
-My doctoral research focuses on the application of theoretically-driven computational text analysis in the realm of social science. Specifically, I am investigating how this approach can be harnessed to examine and comprehend meaning-making processes. The Swedish immigration discourse serves as a compelling case study for my research, offering valuable insights into the intricate dynamics of societal dialogue and perception.
-
+I hold a PhD in Analytical Sociology from the Institute of Analytical Sociology at Linköping University, Sweden and I am still a proud member of [Mining for Meaning](https://liu.se/en/research/computational-text-analysis#:~:text=Our%20project%20%22Mining%20for%20Meaning,emergence%20of%20shared%20social%20understandings.).
+Prior to my doctoral studies, I completed my Master’s degree in Statistics and Machine Lrarning at Linköping University, Sweden, and my Bachelor's degrees in in Statistics and Political Science majoring in Economics at Uppsala University
