@@ -8,7 +8,7 @@ author_profile: true
 
 Hurtado Bodell M., & Magnusson, M., & Keuschnigg, M. &  (2024). Seeded Topic Models in Digital Archives: Analyzing Interpretations of Immigration in Swedish Newspapers, 1945--2019 [accepted in Sociological Methods & Reseach]
 
-Hurtado Bodell, M., & Menshikova, A. (2024). Mechanisms of change: what explains shifts in online immigration discourse after terror attacks? [under review]
+Hurtado Bodell, M., & Menshikova, A. (2024). Mechanisms of change: what explains shifts in online immigration discourse after terror attacks? [revise and resubmit in ASR]
 
 Hurtado Bodell, M., & Mutgan, S. & Jarvis, B. (2024). Mainstream media, social media, and the ethnic reputations of neighborhoods 
 
