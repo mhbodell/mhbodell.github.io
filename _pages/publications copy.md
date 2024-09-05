@@ -5,6 +5,8 @@ permalink: /publ/
 author_profile: true
 ---
 
+Hurtado Bodell, M., Magnusson, M., & Keuschnigg, M. (2024). Seeded Topic Models in Digital Archives: Analyzing Interpretations of Immigration in Swedish Newspapers, 1945–2019. Sociological Methods & Research, 00491241241268453.[https://journals.sagepub.com/doi/full/10.1177/00491241241268453](https://journals.sagepub.com/doi/full/10.1177/00491241241268453)
+
 Hurtado Bodell, M., Magnusson, M., & Mützel, S. (2022). From Documents to Data: A Framework for Total Corpus Quality. Socius, 8. [https://journals.sagepub.com/doi/full/10.1177/23780231221135523](https://journals.sagepub.com/doi/full/10.1177/23780231221135523)
 
 
