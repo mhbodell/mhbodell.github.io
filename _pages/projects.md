@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Hurtado Bodell, M., & Menshikova, A. Mechanisms of change: what explains shifts in online immigration discourse after terror attacks? [revise and resubmit in Poetics
+Hurtado Bodell, M., & Menshikova, A. Mechanisms of change: what explains shifts in online immigration discourse after terror attacks? [revise and resubmit in Poetics]
 
 Menshikova, A., Hurtado Bodell, M., Magnusson, M., & Keuschnigg, M. How Crisis Reshapes Immigration Discourses Across Media Spheres, Sweden 2008--2020 [under review in European Sociological Review]
 
