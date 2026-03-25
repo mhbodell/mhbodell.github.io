@@ -9,7 +9,7 @@ Hurtado Bodell, M., & Menshikova, A. Mechanisms of change: what explains shifts 
 
 Menshikova, A., Hurtado Bodell, M., Magnusson, M., & Keuschnigg, M. How Crisis Reshapes Immigration Discourses Across Media Spheres, Sweden 2008--2020 [under review in European Sociological Review]
 
-Menshikova, A. , Hurtado Bodell, M., Ibrahim, E., &  Lennert, F. Partisan tastes or ideological divides? Everyday interests and political identities in a multi-party system [under review in Journal of Computational Social Science]
+Menshikova, A., Lennert, F., Ibrahim, E., & Hurtado Bodell, M. Partisan tastes or ideological divides? Everyday interests and political identities in a multi-party system [under review in Journal of Computational Social Science]
 
 Hurtado Bodell, M., & Mutgan, S. & Jarvis, B. The Ethnic Reputations of Neighborhoods: A Study of Mainstream and Social Media Discourse in Sweden.
 
