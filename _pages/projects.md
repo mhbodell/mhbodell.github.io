@@ -5,18 +5,22 @@ permalink: /projects/
 author_profile: true
 ---
 
-Hurtado Bodell, M., & Menshikova, A. (2024). Mechanisms of change: what explains shifts in online immigration discourse after terror attacks? [revise and resubmit in ASR]
+Hurtado Bodell, M., & Menshikova, A. Mechanisms of change: what explains shifts in online immigration discourse after terror attacks? [revise and resubmit in Poetics
 
-Hurtado Bodell, M., & Mutgan, S. & Jarvis, B. (2024). Mainstream media, social media, and the ethnic reputations of neighborhoods 
+Menshikova, A., Hurtado Bodell, M., Magnusson, M., & Keuschnigg, M. How Crisis Reshapes Immigration Discourses Across Media Spheres, Sweden 2008--2020 [under review in European Sociological Review]
 
-Hurtado Bodell, M., & Arvidsson, M., & Magnusson, M., & Keuschnigg, M. (2024). Framing dynamics in the Swedish political ecosystem during the 'Refugee crisis''
+Menshikova, A. , Hurtado Bodell, M., Ibrahim, E., &  Lennert, F. Partisan tastes or ideological divides? Everyday interests and political identities in a multi-party system [under review in Journal of Computational Social Science]
 
-Hurtado Bodell, M., & Bursell, M., & Bygren, M. (2024). Increasing numbers, an increasing threat? 
+Hurtado Bodell, M., & Mutgan, S. & Jarvis, B. The Ethnic Reputations of Neighborhoods: A Study of Mainstream and Social Media Discourse in Sweden.
 
-Menshikova, A., Hurtado Bodell, M., Magnusson, M., & Keuschnigg, M. (2024) News media and the online public:Shared understanding of immigration to Sweden?
+Hurtado Bodell, M., & Goldberg, A. Tracing cultural change: contestation and ambiguity in political discourse, 1970-2016.
 
-Menshikova, A. , Hurtado Bodell, M., Ibrahim, E., &  Lennert, F. (2024) Do Liberals Drive Volvos Everywhere? Assessing the Link between Culture and Politics in Sweden
+Hurtado Bodell, M. Are Meanings Flexible and Attitudes Sticky? Interactional Dynamics in an Online Migration Debate
 
-Menshikova, A., Hurtado Bodell, M., Larsson, E.C., & Magnusson, M. (2024) Integrating social theory in text analysis: constrained topic models in social research 
+Hurtado Bodell, M., & Arvidsson, M., & Magnusson, M., & Keuschnigg, M. Framing dynamics in the Swedish political ecosystem during the ''Refugee crisis''
+
+Hurtado Bodell, M., & Bursell, M. Increasing numbers, increasing threat? 
+
+Menshikova, A., Hurtado Bodell, M., Larsson, E.C., & Magnusson, M. Integrating social theory in text analysis: constrained topic models in social research 
 
 
