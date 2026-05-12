@@ -9,9 +9,9 @@ author_profile: true
 
 Menshikova, A., **Hurtado Bodell, M.**, Magnusson, M., & Keuschnigg, M. How Crisis Reshapes Immigration Discourses Across Media Spheres, Sweden 2008--2020 [under review in European Sociological Review]
 
-Menshikova, A., Lennert, F., Ibrahim, E., & **Hurtado Bodell, M.** Partisan tastes or ideological divides? Everyday interests and political identities in a multi-party system [under review in Journal of Computational Social Science]
+Menshikova, A., Lennert, F., Ibrahim, E., & **Hurtado Bodell, M.** Partisan tastes or ideological divides? Everyday interests and political identities in a multi-party system [revise and resubmit in Journal of Computational Social Science]
 
-**Hurtado Bodell, M.**, & Mutgan, S. & Jarvis, B. The Ethnic Reputations of Neighborhoods: A Study of Mainstream and Social Media Discourse in Sweden. 
+**Hurtado Bodell, M.**, & Mutgan, S. & Jarvis, B. The Ethnic Reputations of Neighborhoods: A Study of Mainstream and Social Media Discourse in Sweden. [under review in European Sociological Review]
 
 **Hurtado Bodell, M.**, & Goldberg, A. Tracing cultural change: contestation and ambiguity in political discourse, 1970-2016.
 
