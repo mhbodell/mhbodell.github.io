@@ -5,7 +5,7 @@ permalink: /publ/
 author_profile: true
 ---
 
-**Hurtado Bodell, M. **, & Menshikova, A. (2026). Mechanisms of change: How focus events reshape online meaning-making. Poetics, 117, 102108.
+**Hurtado Bodell, M.**, & Menshikova, A. (2026). Mechanisms of change: How focus events reshape online meaning-making. Poetics, 117, 102108.
 
 Menshikova, A., Lennert, F., Ibrahim, E. I. B., & **Hurtado Bodell, M**. (2026). Partisan tastes or ideological divides? Everyday interests and political identities in a multi-party system. Journal of Computational Social Science, 9(3), 52.
 
